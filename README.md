@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Aydınay</h1>
-<h3 align="center">A passionate fullstack developer from Türkiye</h3>
+<h3 align="center">Versatile Fullstack Developer with 3+ years of experience in developing scalable web and mobile
+applications using Node.js, .NET Core, Angular, React, and other modern technologies. Proven track record
+of designing and implementing IoT solutions, enhancing user experiences, and optimizing back-end
+performance. Seeking to leverage expertise in a dynamic team to drive technical innovation and business
+success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinayoguzhan&label=Profile%20views&color=0e75b6&style=flat" alt="aydinayoguzhan" /> </p>
 
